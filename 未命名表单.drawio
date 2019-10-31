@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2019-10-31T05:49:06.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="qp0FbDAdGYcLsnuYk-9f" version="12.1.9" type="github" pages="1"><diagram id="LX1PCkaKiglEyON3jVIq" name="第 1 页">3ZZRb5swEMc/DY+VAIekfS1L10ntpCqdJu2lcvEFezMcNUdI9ulnwISwpGkqbapaHhD+3Znz/e+PEo/F2fqz4YW8RQHaC32x9tgnLwwvWGjvDdh04CyaXnQkNUp0LBjAQv0GB31HKyWgHCUSoiZVjGGCeQ4JjRg3Butx2hL1uGrBU9gDi4TrffpdCZIdPQ9nA78Glcq+ctD3l/E+2XVSSi6w3kFs7rHYIFL3lK1j0I14vS7dvqtnotuDGcjplA3lzdOPStxh/PXL0/3tvHzIvj2cTbq3rLiuXMPusLTpFQBhBXFLNCQxxZzr+UAvDVa5gKaMb1dDzg1iYWFg4U8g2rjp8orQIkmZdtGuZlPo2d4cKrEyCRxpqPcINynQkTy2nYC1LmAGZDZ2nwHNSa3G5+DOQ+k2b5DZPjilX6F68LLqY01rqQgWBW9br+2Xdki/FRiC9XEF9zt2G1jkbOo+1IBNHagH2wd9ktyxPPP/k0rTj+ZNdqI3o7f0JnsH3pzM3tqb0QkqScweq/JlhZaY0xXPlG7auwa9AlIJdwHnyyB06xg1mrYA89vLcq5VmluWWD3BBi9LMvgLDqUuldY7fNle/2ZK0ezvKU2ivSmF/oEpnb9+SnY5/HK2sZ3/H2z+Bw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-31T05:52:25.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="BFlv1rl3pWyQaeeEMEgB" version="12.1.9" type="github" pages="1">
+  <diagram id="LX1PCkaKiglEyON3jVIq" name="第 1 页">
+    <mxGraphModel dx="932" dy="-569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="egDxa3dv6mqkNhALyH8C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="egDxa3dv6mqkNhALyH8C-1" target="egDxa3dv6mqkNhALyH8C-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="egDxa3dv6mqkNhALyH8C-1" value="客户端启动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1250" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="egDxa3dv6mqkNhALyH8C-2" value="认证安检" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="1320" width="125" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
